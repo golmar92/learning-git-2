@@ -1,5 +1,7 @@
 body {
-  background-color: #000; }
+  background-color: #000;
+  display: -ms-flexbox;
+  display: flex; }
 
 .container {
   background-color: #fff;

@@ -1,5 +1,6 @@
 body {
-  background-color: #000; }
+  background-color: #000;
+  display: flex; }
 
 .container {
   background-color: #fff;
